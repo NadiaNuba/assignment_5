@@ -1,0 +1,43 @@
+.header{
+	background-color: purple;
+	min-height: 100px;
+}
+.parent{
+	border: 5px solid maroon;
+	overflow: hidden;
+
+}
+.blog{
+	background-color: magenta;
+	min-height: 200px;
+	width: 70%;
+	float: left;
+}
+.contact{
+	background-color: pink;
+	min-height: 200px;
+	width: 30%;
+	float: right;
+}
+.wrapper{
+	overflow: hidden;
+}
+.box{
+	width: 33.33%;
+	min-height: 150px;
+	float: left;
+}
+.box1{
+	background-color: darkblue;
+}
+.box2{
+	background-color: blue;
+}
+.box3{
+	background-color: lightblue;
+}
+.footer{
+	background-color: #7A4988;
+	min-height: 100px;
+	
+}
